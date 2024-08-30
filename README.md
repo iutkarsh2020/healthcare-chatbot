@@ -16,7 +16,6 @@ Developed a healthcare chatbot using the open-source large language model: mistr
 - Gradio for the chatbot interface
 - Additional libraries as listed in requirements.txt
 
-## Summary of Approach and Challenges
 
 ### Dataset
 
